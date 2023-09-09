@@ -84,3 +84,26 @@ Completa los siguientes pasos y anota el `address` del contrato que arrojará el
    - La llave privada de la billetara de Metamask no cuenta con los fondos suficientes
    - `NodeJS` es una versión antigua
 
+
+
+### Compiled 1 Solidity file successfully
+
+
+======Publicando tu primer contrato (1 min)... ======
+====== ¡Felicidades! Haz publicado tu primer contrato ======
+Address del Contrato: 0xE91aCfD03f1ED82ff5046F779b2EC00BfA50CAcB
+
+
+====== Empezo la verificaion del contrato ======
+Successfully submitted source code for contract
+contracts/MiPrimerContrato.sol:MiPrimerContrato at 0xE91aCfD03f1ED82ff5046F779b2EC00BfA50CAcB
+for verification on the block explorer. Waiting for verification result...
+
+Successfully verified contract MiPrimerContrato on the block explorer.
+https://mumbai.polygonscan.com/address/0xE91aCfD03f1ED82ff5046F779b2EC00BfA50CAcB#code
+
+
+====== ¡Felicidades! Haz verificado tu primer contrato ======
+
+
+Guarda este Address del Contrato (requisito): 0xE91aCfD03f1ED82ff5046F779b2EC00BfA50CAcB
